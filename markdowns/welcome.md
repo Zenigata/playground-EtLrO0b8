@@ -24,7 +24,7 @@ Voici un quiz sur des anecdotes de mon enfance. Bonne rigolade !
 -[x] j'ai écopé de plusieurs coups de règle en fer sur le bout des doigts. Aïe !
 -[ ] j'étais complètement interdit de récréation.
 
-?[En 1993 le dictateur togolais se fait réélire après notamment une répression d'au moins 16 morts en janvier...]
+?[En 1993 le dictateur togolais se fait réélire après notamment une répression d'au moins 16 morts en janvier puis...]
 -[x] nous sommes rapatriés et quittons le Togo définitivement.
 -[ ] l'école est fermée pendant 3 mois et nous nous terrons chez nous.
 -[ ] il oblige la population à descendre dans la rue et à fêter sa victoire. C'est la fête non-stop !
