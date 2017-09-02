@@ -5,9 +5,9 @@ Voici un quiz sur des anecdotes de mon enfance. Bonne rigolade !
 ## À Madagascar
 
 ?[Je suis né en pleine saison des cyclones. D'ailleurs, cette année-là...]
--[x] un bout de notre toit fut arraché puis retrouvé quelque part au fond de la cour.
 -[ ] un zébu voisin s'est envolé sur quelques kilomètres sans être blessé.
 -[ ] il faisait tellement froid que de la neige est tombée pendant plusieurs jours.
+-[x] un bout de notre toit fut arraché puis retrouvé quelque part au fond de la cour.
 -[ ] nous avions dû héberger des vacanciers dont l'avion s'était posé en catastrophe dans notre voisinage.
 
 ?[Bébé très bruyant, le meilleur (et des fois seul) moyen de me calmer était de...]
