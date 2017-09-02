@@ -22,7 +22,7 @@ Voici un quiz sur des anecdotes de mon enfance. Bonne rigolade !
 -[ ] j'ai été renvoyé à tellement de reprises que j'ai dû changer d'établissement.
 -[ ] une fois j'ai été mis en isolation deux heures de temps !
 -[x] j'ai écopé de plusieurs coups de règle en fer sur le bout des doigts. Aïe !
--[ ] j'étais complètement interdit de récréation.
+-[ ] je fus temporairement interdit de récréation. Carrément.
 
 ?[En 1993 le dictateur togolais se fait réélire après notamment une répression d'au moins 16 morts en janvier puis...]
 -[x] nous sommes rapatriés et quittons le Togo définitivement.
@@ -50,7 +50,7 @@ Voici un quiz sur des anecdotes de mon enfance. Bonne rigolade !
 -[ ] j'ai fumé en cachette dans les toilettes et ai écopé d'un sermon public.
 -[x] je suis monté en avion en fauteuil roulant. Tout le monde était aux petits soins avec moi.
 -[ ] on a dû atterir en urgence car un passager était très malade.
--[ ] j'ai eu la chance de passer du temps dans le cockpit.
+-[ ] j'ai eu la chance de passer du temps dans le cockpit. Magique.
 
 ?[Le meilleur souvenir quand on gravit à pied 4000 mètres est...]
 -[x] la boîte de raviolis en conserve du dernier refuge.
@@ -68,6 +68,6 @@ Voici un quiz sur des anecdotes de mon enfance. Bonne rigolade !
 
 ?[Lors de ma première sortie chez un coiffeur à 17 ans...]
 -[ ] incapable de choisir une coupe, j'ai finalement opté pour une boule à zéro.
--[ ] ayant oublié mon portefeuille j'ai dû travailler au noir pour l'enseigne durant deux heures...
+-[ ] ayant oublié mon portefeuille j'ai dû travailler au noir durant deux heures...
 -[x] n'ayant pas compris l'intention du coiffeur d'aller chercher du matériel, je me suis mis à me laver la tête tout seul tant bien que mal...
--[ ] je me suis fait teindre les cheveux en blond pour ressembler à un super saiyan.
+-[ ] je me suis fait teindre les cheveux en blond pour ressembler à un super saiyan !
