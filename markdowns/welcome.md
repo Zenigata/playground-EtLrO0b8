@@ -52,7 +52,7 @@ Voici un quiz sur des anecdotes de mon enfance. Bonne rigolade !
 -[ ] on a dû atterir en urgence car un passager était très malade.
 -[ ] j'ai eu la chance de passer du temps dans le cockpit. Magique.
 
-?[Le meilleur souvenir quand on gravit à pied 4000 mètres est...]
+?[Le meilleur souvenir quand on gravit à pied 4000 mètres c'est...]
 -[x] la boîte de raviolis en conserve du dernier refuge.
 -[ ] le lever de soleil en haut du sommet.
 -[ ] la descente, enfin !
